@@ -1,5 +1,5 @@
 # LinearRegression
-A linear regression model for predicting insurance costs
+*A linear regression model for predicting insurance costs*
 
 **Description:** This project involves predicting insurance costs based on various features using a Linear Regression model. The dataset used contains information about individuals and their insurance expenses. By applying linear regression, the goal is to estimate insurance costs based on features such as age, gender, and health conditions.
 
