@@ -15,9 +15,8 @@ A linear regression model for predicting insurance costs
 **Code Execution:**
 
 1. **Setup Environment:** Install required libraries (numpy, pandas, scikit-learn).
-
 2. **Data Loading:** Place `insurance.csv` in the appropriate directory, then load and inspect the dataset.
-3. **Preprocessing:** Handle missing values, encode categorical variables, and split the data into features and labels.  
-4. **Model Training:** Execute the script to train the Linear Regression model.  
-5. **Prediction & Evaluation:** Predict insurance costs and assess the model's performance using Mean Absolute Error (MAE) and R-squared score.  
+3. **Preprocessing:** Remove unnecessary columns, encode categorical data, and divide the dataset into dependent and independent variables.
+4. **Model Training:** Split the dataset into training and testing sets, then execute the script to train the Linear Regression model on the training data.
+5. **Prediction & Evaluation:** Predict insurance costs and assess the model's performance using R-squared score.  
 6. **Customize Input:** Modify the script's input data for different insurance cost estimates.
